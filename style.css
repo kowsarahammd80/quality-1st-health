@@ -1,0 +1,104 @@
+.navButton{
+  background-color: #2041CC;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  font-weight: 700;
+  border-radius: 5px;
+}
+.background-img{
+  background-image: url(./image/Background.png);
+  background-repeat: no-repeat;
+}
+
+.form-position{
+
+  position: relative;
+  display: block;
+
+}
+
+.sectect-form-modify{
+  padding: 15px 45px;
+}
+
+.location-image{
+    
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px 0px;
+    padding-left: 8px;
+    
+
+}
+
+.font-size-set{
+  font-size: 5rem;
+  font-family: Tahoma;
+}
+
+.width-set{
+  width: 100%;
+}
+
+.button-search{
+
+  background-color: #2041CC;
+  border: none;
+  color: white;
+  padding: 8px 15px;
+  position: absolute;
+  right: 313px;
+  top: 5px;
+
+}
+
+.search-input-modeify{
+  padding: 12px 5px;
+  box-shadow: gray 1px 1px 1px;
+}
+
+.search-container{
+
+  position: relative;
+  display: block;
+
+}
+
+.dot{
+   margin-bottom: 14px;
+}
+
+.button-text-6kg{
+  
+  font-size: small;
+
+}
+
+.button-100{
+   border: none;
+   font-size: large;
+   font-weight: 700;
+   background-color: #2041CC;
+   color: white;
+   border-radius: 5px;
+   padding: 5px 15px;
+}
+
+.button-6kg{
+
+  border: none;
+  font-size: large;
+  font-weight: 700;
+  background-color: #C3EC40;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 15px;
+
+}
+
+.nav-bg{
+  background-color: unset;
+}
+
